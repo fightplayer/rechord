@@ -12,5 +12,8 @@ rechord は実際に演奏もできるコード進行共有サービスです。
 - [Draft.js](https://github.com/facebook/draft-js)
 - [Bulma](https://github.com/jgthms/bulma)
 
+## Deployment
+For deployment instructions, please refer to [DEPLOYMENT.md](DEPLOYMENT.md).
+
 ## copyright
 Copyright &copy; 2017 comorebi notes All Rights Reserved.
